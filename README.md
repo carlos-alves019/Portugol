@@ -9,7 +9,7 @@ da programação antes de avançar para linguagens mais complexas.
 
 # 🇵🇹 Tecnologias Utilizadas
 - Portugol Studio
-- Visualg (dependendo do projeto)
+- Visualg 
 
 # 🇵🇹 Funcionalidades
 - Exercícios básicos e intermediários
