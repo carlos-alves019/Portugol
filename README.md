@@ -1,5 +1,4 @@
-# Portugol
-# 📘 Repositório: portugol-projects
+# Repositório: portugol-projects
 
 # 🇵🇹 Descrição
 Projetos e exercícios desenvolvidos em Portugol, focados em lógica de programação,
